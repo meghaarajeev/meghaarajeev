@@ -1,11 +1,12 @@
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+</p>
 <h1 align="left">Hi 👋, I'm Megha Rajeev</h1>
-<h3 align="left">Student at Saintgits College of Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/78c5707b2fffc71fe2a0faf29d4bd5169a6c6131247a4c61ea01cd19744e8313/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
-<hr />
+<h2 align="left">Student at Saintgits College of Engineering</h3>
 I’m currently learning Web Development and Blockchain.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/megha-rajeev-0a2584227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/megha-rajeev-0a2584227/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/megha-rajeev-0a2584227/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/megha-rajeev-0a2584227/" height="30" width="40" /></a>
 <a href="https://instagram.com/_megharajeev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_megharajeev_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@megharajeev6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@megharajeev6" height="30" width="40" /></a>
 </p>
