@@ -1,5 +1,5 @@
 <p align="center">
- <img src="hi.svg"/>
+ <img src="hi.svg height:3000px width:3000px"/>
 </p>
 <h2 align="left">Student at Saintgits College of Engineering</h3>
 I’m currently learning Web Development and Blockchain.
