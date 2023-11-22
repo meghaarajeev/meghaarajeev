@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 </p>
-<h1 align="left">Hi 👋, I'm Megha Rajeev</h1>
+<h1 align="left">Hi,I'm Megha Rajeev👋</h1>
 <h2 align="left">Student at Saintgits College of Engineering</h3>
 I’m currently learning Web Development and Blockchain.
 <h3 align="left">Connect with me:</h3>
