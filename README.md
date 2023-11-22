@@ -1,7 +1,6 @@
 <p align="center">
- <img src="hello.svg"/>
+ <img src="hi.svg"/>
 </p>
-<h1 align="left">Hi,I'm Megha Rajeev👋</h1>
 <h2 align="left">Student at Saintgits College of Engineering</h3>
 I’m currently learning Web Development and Blockchain.
 <h3 align="left">Connect with me:</h3>
