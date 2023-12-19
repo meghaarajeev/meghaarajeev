@@ -34,12 +34,7 @@ Here's what I'm currently focused on:
  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,solidity,npm,ethereum&theme=dark)](https://skillicons.dev)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghaarajeev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghaarajeev&theme=dark" alt="meghaarajeev"/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghaarajeev&show_icons=true&theme=dark&hide_border=true&locale=en" alt="meghaarajeev" /></p>
-
-
-# 📫 Contact
+ # 📫 Contact
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/_megharajeev_/) or [LinkedIn](https://www.linkedin.com/in/megha-rajeev-0a2584227/). 
  
@@ -47,6 +42,13 @@ Here's what I'm currently focused on:
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghaarajeev&label=Profile%20views&color=282929&style=plastic" alt="meghaarajeev" /> </p>
 
-</p>
+
+# Stats📊
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghaarajeev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=meghaarajeev&theme=dark" alt="meghaarajeev"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghaarajeev&show_icons=true&theme=dark&hide_border=true&locale=en" alt="meghaarajeev" /></p>
+
+
 
 </ul>
