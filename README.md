@@ -1,5 +1,5 @@
 <p align="center">
- <img src= "hi.svg"/>
+ <img src="hi.svg"/>
 </p>
 <ul>
 
