@@ -34,16 +34,10 @@ Here's what I'm currently focused on:
  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,solidity,npm,ethereum&theme=dark)](https://skillicons.dev)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghaarajeev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghaarajeev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghaarajeev&theme=dark" alt="meghaarajeev"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghaarajeev&show_icons=true&theme=dark&hide_border=true&locale=en" alt="meghaarajeev" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meghaarajeev&theme=dark" alt="meghaarajeev" /></p>
-
-
-
-
-<p>
 
 # 📫 Contact
 
