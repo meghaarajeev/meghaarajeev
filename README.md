@@ -28,7 +28,7 @@ Here's what I'm currently focused on:
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,python,bootstrap)](https://skillicons.dev) 
 
  
- [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vercel,heroku)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vercel,git,vscode,replit,powershell,heroku)](https://skillicons.dev) 
 
  
  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,solidity,npm,ethereum&theme=dark)](https://skillicons.dev)
