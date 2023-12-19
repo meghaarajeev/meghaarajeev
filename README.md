@@ -30,10 +30,10 @@ Here's what I'm currently focused on:
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,python,bootstrap)](https://skillicons.dev) 
 
  
- [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,mysql)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vercel,heroku)](https://skillicons.dev) 
 
  
- [![My Skills](https://skillicons.dev/icons?i=java,nodejs,ethereum,figma,solidity&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,solidity,npm,ethereum&theme=dark)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghaarajeev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
