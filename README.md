@@ -18,12 +18,10 @@ Here's what I'm currently focused on:
 <li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
 
 # Connect with me💬
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/megha-rajeev-0a2584227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/megha-rajeev-0a2584227/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/megharajeev6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/megharajeev6" height="30" width="40" /></a>
-<a href="https://discord.gg/megharajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="megharajeev" height="30" width="40" /></a> </a>
-<a href="https://instagram.com/_megharajeev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_megharajeev_" height="30" width="40" />
-</p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/megha-rajeev-0a2584227/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://discord.gg/megharajeev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://instagram.com/_megharajeev_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
+
 
 # Languages and Tools📝
 
