@@ -38,6 +38,12 @@ Here's what I'm currently focused on:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghaarajeev&show_icons=true&theme=dark&hide_border=true&locale=en" alt="meghaarajeev" /></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meghaarajeev&theme=dark" alt="meghaarajeev" /></p>
+
+
+
+
+<p>
 
 # 📫 Contact
 
@@ -47,6 +53,6 @@ Here's what I'm currently focused on:
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghaarajeev&label=Profile%20views&color=282929&style=plastic" alt="meghaarajeev" /> </p>
 
-
+</p>
 
 </ul>
