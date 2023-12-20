@@ -33,14 +33,17 @@ Here's what I'm currently focused on:
 
 # Languages and Tools📝
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,python,bootstrap)](https://skillicons.dev) 
 
- 
- [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vercel,git,vscode,replit,powershell,heroku)](https://skillicons.dev) 
-
- 
- [![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,solidity,npm,ethereum&theme=dark)](https://skillicons.dev)
-
+| Category | Skill    |       
+| :---:   | :---: |
+| Framework | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)     | 
+| Languages | [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,python,solidity,java)](https://skillicons.dev)     | 
+| Styling and Framework | [![My Skills](https://skillicons.dev/icons?i=css,bootstrap)](https://skillicons.dev)     | 
+| Database | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)     | 
+| Services & Tools | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)     |
+| IDE & Environment | [![My Skills](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)     |
+| Hosting | [![My Skills](https://skillicons.dev/icons?i=vercel,heroku)](https://skillicons.dev)     |
+| Design Tools | [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma)](https://skillicons.dev)     |
 
  # 📫 Contact
 
