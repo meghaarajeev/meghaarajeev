@@ -3,6 +3,9 @@
 </p>
 <ul>
 
+# About me👋
+<li>🎓I am a 3rd year CSE Student at Saintgits College of Engineering</li>
+
 # Creation👩🏿‍💻
 <li>
  
@@ -10,9 +13,6 @@
 
  </li>
 simplifies packing: snap photos of items, and its Segment Anything AI instantly identifies them. The app employs Google Material Design to neatly list recognized objects. Plus, integrated Google Assistant confirms contents without opening the app, streamlining the packing process effortlessly.
-
-# About me👋
-<li>🎓I am a 3rd year CSE Student at Saintgits College of Engineering</li>
 
 # Current Endevours🔭
 Here's what I'm currently focused on:
