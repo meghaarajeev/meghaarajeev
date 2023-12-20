@@ -34,7 +34,7 @@ Here's what I'm currently focused on:
 # Languages and Tools📝
 
 
-| Category | Skill    |       
+| **Category** | **Skill**    |       
 | :---:   | :---: |
 | Framework | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)     | 
 | Languages | [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,python,solidity,java)](https://skillicons.dev)     | 
