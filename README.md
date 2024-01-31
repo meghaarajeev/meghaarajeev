@@ -21,8 +21,8 @@ Here's what I'm currently focused on:
 <li>I'm a night owl, always driven and constantly learning in the tech world.</li>
 
 # My Interests✨
-<li>Frontend Web Development</li>
-<li>Pitching new Ideas of Innovation.</li>
+<li>Full Stack Web Development</li>
+<li>Learning new programming languages.</li>
 <li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
 
 # Connect with me💬
