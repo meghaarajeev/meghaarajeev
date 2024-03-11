@@ -14,6 +14,12 @@
  </li>
 Simplifies packing: snap photos of items, and its Segment Anything AI instantly identifies them. The app employs Google Material Design to neatly list recognized objects. Plus, integrated Google Assistant confirms contents without opening the app, streamlining the packing process effortlessly.
 
+<li>
+
+## **EmoSense🔊**
+
+</li>
+
 # Current Endevours🔭
 Here's what I'm currently focused on:
 <li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp on Udemy.</li>
