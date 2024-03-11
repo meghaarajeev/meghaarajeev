@@ -19,6 +19,7 @@ Simplifies packing: snap photos of items, and its Segment Anything AI instantly 
 ## **EmoSense🔊**
 
 </li>
+As a part of IIIT Hyderabad Reasearch Teaser Programme me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately.
 
 # Current Endevours🔭
 Here's what I'm currently focused on:
