@@ -9,14 +9,14 @@
 # Creation👩🏿‍💻
 <li>
  
- ## **PackMate🛍️** 
+ ## **[PackMate🛍️](https://github.com/meghaarajeev/Project-PackMate)** 
 
  </li>
 Simplifies packing: snap photos of items, and its Segment Anything AI instantly identifies them. The app employs Google Material Design to neatly list recognized objects. Plus, integrated Google Assistant confirms contents without opening the app, streamlining the packing process effortlessly.
 
 <li>
 
-## **EmoSense🔊**
+## **[EmoSense🔊](https://github.com/meghaarajeev/EmoSense-EmotionAnalysis-Machine-Learning)**
 
 </li>
 As a part of IIIT Hyderabad Reasearch Teaser Programme me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately.
