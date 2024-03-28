@@ -58,14 +58,6 @@ Here's what I'm currently focused on:
  
  For professional inquiries, reach out via email at [megha.csb2125@saintgits.org](mailto:megha.csb2125@saintgits.org). 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghaarajeev&label=Profile%20views&color=282929&style=plastic" alt="meghaarajeev" /> </p>
-
-
 ![meghaarajeev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghaarajeev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
-![meghaarajeev's Stats](https://github-readme-stats.vercel.app/api?username=meghaarajeev&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-![meghaarajeev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghaarajeev&theme=dracula&hide_border=true)
-
 
 </ul>
