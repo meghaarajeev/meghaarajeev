@@ -21,6 +21,13 @@ Simplifies packing: snap photos of items, and its Segment Anything AI instantly 
 </li>
 As a part of IIIT Hyderabad Reasearch Teaser Programme me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately.
 
+<li>
+
+## **[CryBell👶🏿](https://github.com/meghaarajeev/CryBell-Enhancing-infant-bonding-and-care-through-emotion-awareness)**
+
+</li>
+A reliable technological solution for accurately identifying and classifying the emotional states expressed in baby cries is urgently needed to support optimal emotional development in early infancy and enable responsive parenting.
+
 # Current Endevours🔭
 Here's what I'm currently focused on:
 <li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp on Udemy.</li>
