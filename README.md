@@ -7,6 +7,15 @@
 <li>🎓I am a 3rd year CSE Student at Saintgits College of Engineering</li>
 
 # Creation👩🏿‍💻
+
+<li>
+ 
+ ## **[MetaMart🛒](https://github.com/meghaarajeev/MetaMart-hackfest-dev-HF24-Vortex)** 
+
+ </li>
+ 
+MetaMart is a virtual marketplace within the metaverse tailored to Instagram and Facebook small business owners. It offers a platform for these creators to showcase and sell their products in immersive virtual environments. With customizable interfaces, users can personalize their virtual storefronts according to their branding preferences. Accessible via desktop or mobile devices, MetaMart aims to bridge traditional e-commerce with the immersive world of the metaverse, empowering businesses to thrive in virtual space.
+ 
 <li>
  
  ## **[PackMate🛍️](https://github.com/meghaarajeev/Project-PackMate)** 
