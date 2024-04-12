@@ -3,7 +3,7 @@
 </p>
 <ul>
 
-# About me👋
+# About me✌🏻
 <li>🎓I am a 3rd year CSE Student at Saintgits College of Engineering</li>
 
 # Creation👩🏿‍💻
