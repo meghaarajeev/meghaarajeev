@@ -50,7 +50,7 @@ Here's what I'm currently focused on:
 <li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
 
 # Connect with me💬
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/megha-rajeev-0a2584227/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/megharajeev/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://discord.gg/megharajeev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="https://instagram.com/_megharajeev_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
 
