@@ -19,7 +19,7 @@ Here's what I'm currently focused on:
 
 # Creation👩🏿‍💻
 
-## A compilation of my personal learnings:
+## A compilation of my personal learnings📖:
 
 - **[Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-)**
 
