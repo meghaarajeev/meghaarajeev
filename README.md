@@ -6,6 +6,17 @@
 # About me✌🏻
 <li>🎓I am a 3rd year CSE Student at Saintgits College of Engineering</li>
 
+# Current Endevours🔭
+Here's what I'm currently focused on:
+<li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp on Udemy.</li>
+<li>I'm exploring Blockchain Technology to enhance my skill set.</li>
+<li>I'm a night owl, always driven and constantly learning in the tech world.</li>
+
+# My Interests✨
+<li>Full Stack Web Development</li>
+<li>Learning new programming languages.</li>
+<li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
+
 # Creation👩🏿‍💻
 
 <li>
@@ -38,16 +49,7 @@ A reliable technological solution for accurately identifying and classifying the
 Simplifies packing: snap photos of items, and its Segment Anything AI instantly identifies them. The app employs Google Material Design to neatly list recognized objects. Plus, integrated Google Assistant confirms contents without opening the app, streamlining the packing process effortlessly.
 
 
-# Current Endevours🔭
-Here's what I'm currently focused on:
-<li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp on Udemy.</li>
-<li>I'm exploring Blockchain Technology to enhance my skill set.</li>
-<li>I'm a night owl, always driven and constantly learning in the tech world.</li>
 
-# My Interests✨
-<li>Full Stack Web Development</li>
-<li>Learning new programming languages.</li>
-<li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
 
 # Connect with me💬
 <a href="https://www.linkedin.com/in/megharajeev/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
