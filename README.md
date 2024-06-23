@@ -21,8 +21,9 @@ Here's what I'm currently focused on:
 
 ## A compilation of my personal learnings📖:
 
-- **[Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-)**
+<li> **[Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-)** </li>
 
+## Projects👷🏼‍♀️
 <li>
  
  ## **[MetaMart🛒](https://github.com/meghaarajeev/MetaMart-hackfest-dev-HF24-Vortex)** 
