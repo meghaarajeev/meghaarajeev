@@ -21,7 +21,11 @@ Here's what I'm currently focused on:
 
 ## A compilation of my personal learnings📖:
 
-<li> **[Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-)** </li>
+<li>  
+ 
+ **[Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-)**
+ 
+</li>
 
 ## Projects👷🏼‍♀️
 <li>
