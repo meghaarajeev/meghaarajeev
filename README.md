@@ -30,7 +30,7 @@ Here's what I'm currently focused on:
 ## Projects👷🏼‍♀️
 <li>
 
-## **[ClauseX](https://github.com/meghaarajeev/Intel-Unnati-2024-Industrial-Training-Project)**
+## **[ClauseX📜](https://github.com/meghaarajeev/Intel-Unnati-2024-Industrial-Training-Project)**
 
 </li>
 
