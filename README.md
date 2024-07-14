@@ -49,7 +49,8 @@ MetaMart is a virtual marketplace within the metaverse tailored to Instagram and
 ## **[EmoSense🔊](https://github.com/meghaarajeev/EmoSense-EmotionAnalysis-Machine-Learning)**
 
 </li>
-As a part of IIIT Hyderabad Reasearch Teaser Programme me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately. This involves analyzing different acoustic features of the speech signal, such as pitch, intensity, and duration, as well as linguistic features and contextual information, to infer the underlying emotional state.By analyzing these features, we can better understand how emotions are conveyed through speech and use this information to improve communication and interaction between humans and machines.
+
+As a part of **IIIT Hyderabad Reasearch Teaser Programme** me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately. This involves analyzing different acoustic features of the speech signal, such as pitch, intensity, and duration, as well as linguistic features and contextual information, to infer the underlying emotional state.By analyzing these features, we can better understand how emotions are conveyed through speech and use this information to improve communication and interaction between humans and machines.
 
 <li>
 
