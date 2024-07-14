@@ -29,6 +29,14 @@ Here's what I'm currently focused on:
 
 ## Projects👷🏼‍♀️
 <li>
+
+## **[ClauseX](https://github.com/meghaarajeev/Intel-Unnati-2024-Industrial-Training-Project)**
+
+</li>
+
+ClauseX is an advanced contract analysis tool designed to parse, classify, and validate business contracts. Leveraging machine learning techniques, ClauseX identifies and highlights deviations from predefined templates, ensuring compliance and consistency across various types of contracts. The tool supports various contract types, including employment, joint, partnership, purchase, and sales agreements, making it an essential asset for legal and business professionals.
+
+<li>
  
  ## **[MetaMart🛒](https://github.com/meghaarajeev/MetaMart-hackfest-dev-HF24-Vortex)** 
 
