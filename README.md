@@ -37,6 +37,13 @@ Here's what I'm currently focused on:
 ClauseX is an advanced contract analysis tool designed to parse, classify, and validate business contracts. Leveraging machine learning techniques, ClauseX identifies and highlights deviations from predefined templates, ensuring compliance and consistency across various types of contracts. The tool supports various contract types, including employment, joint, partnership, purchase, and sales agreements, making it an essential asset for legal and business professionals.
 
 <li>
+
+## **[CryBell👶🏿](https://github.com/meghaarajeev/CryBell-Enhancing-infant-bonding-and-care-through-emotion-awareness)**
+
+</li>
+A reliable technological solution for accurately identifying and classifying the emotional states expressed in baby cries is urgently needed to support optimal emotional development in early infancy and enable responsive parenting. Caregivers gain real-time insights into their baby's emotional state, facilitating timely and appropriate responses. This software empowers parents by providing a deeper understanding of their baby's needs and emotions, fostering a stronger parent-child bond and promoting healthier emotional development in the infant.
+
+<li>
  
  ## **[MetaMart🛒](https://github.com/meghaarajeev/MetaMart-hackfest-dev-HF24-Vortex)** 
 
@@ -52,12 +59,7 @@ MetaMart is a virtual marketplace within the metaverse tailored to Instagram and
 
 As a part of **IIIT Hyderabad Reasearch Teaser Programme** me and my team developed a robust emotion recognition system utilizing machine learning techniques on the CREMA-D dataset to classify various emotions expressed in audio recordings accurately. This involves analyzing different acoustic features of the speech signal, such as pitch, intensity, and duration, as well as linguistic features and contextual information, to infer the underlying emotional state.By analyzing these features, we can better understand how emotions are conveyed through speech and use this information to improve communication and interaction between humans and machines.
 
-<li>
 
-## **[CryBell👶🏿](https://github.com/meghaarajeev/CryBell-Enhancing-infant-bonding-and-care-through-emotion-awareness)**
-
-</li>
-A reliable technological solution for accurately identifying and classifying the emotional states expressed in baby cries is urgently needed to support optimal emotional development in early infancy and enable responsive parenting. Caregivers gain real-time insights into their baby's emotional state, facilitating timely and appropriate responses. This software empowers parents by providing a deeper understanding of their baby's needs and emotions, fostering a stronger parent-child bond and promoting healthier emotional development in the infant.
 
 <li>
  
