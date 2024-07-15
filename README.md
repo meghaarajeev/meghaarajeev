@@ -80,10 +80,10 @@ Simplifies packing: snap photos of items, and its Segment Anything AI instantly 
 
 | **Category** | **Skill**    |       
 | :---:   | :---: |
-| Framework | [![My Skills](https://skillicons.dev/icons?i=nodejs,django)](https://skillicons.dev)     | 
+| Framework | [![My Skills](https://skillicons.dev/icons?i=nodejs,django,flask)](https://skillicons.dev)     | 
 | Languages | [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,python,solidity,java)](https://skillicons.dev)     | 
 | Styling and Framework | [![My Skills](https://skillicons.dev/icons?i=css,bootstrap)](https://skillicons.dev)     | 
-| Database | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)     | 
+| Database | [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)     | 
 | Services & Tools | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)     |
 | IDE & Environment | [![My Skills](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)     |
 | Hosting | [![My Skills](https://skillicons.dev/icons?i=vercel,heroku)](https://skillicons.dev)     |
