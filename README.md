@@ -27,7 +27,8 @@ Here's what I'm currently focused on:
  
 </li>
 
-## Projects👷🏼‍♀️
+
+# Projects👷🏼‍♀️
 <li>
 
 ## **[ClauseX📜](https://github.com/meghaarajeev/Intel-Unnati-2024-Industrial-Training-Project)**
