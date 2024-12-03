@@ -8,12 +8,12 @@
 
 # Current Endevours🔭
 Here's what I'm currently focused on:
-<li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp on Udemy.</li>
+<li>Certified for The Complete 2024 Web development Bootcamp on Udemy.</li>
 <li>I'm exploring Blockchain Technology to enhance my skill set.</li>
 <li>I'm a night owl, always driven and constantly learning in the tech world.</li>
 
 # My Interests✨
-<li>Full Stack Web Development</li>
+<li>Creating AI/ML Projects</li>
 <li>Learning new programming languages.</li>
 <li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
 
