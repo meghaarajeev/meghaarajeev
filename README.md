@@ -4,12 +4,11 @@
 <ul>
 
 # About me✌🏻
-<li>🎓I am a 3rd year CSE Student at Saintgits College of Engineering</li>
+<li>🎓Final Year BTech Student(CSE) at Saintgits College of Engineering</li>
 
 # Current Endevours🔭
 Here's what I'm currently focused on:
 <li>Certified for The Complete 2024 Web development Bootcamp on Udemy.</li>
-<li>I'm exploring Blockchain Technology to enhance my skill set.</li>
 <li>I'm a night owl, always driven and constantly learning in the tech world.</li>
 
 # My Interests✨
