@@ -4,7 +4,7 @@
 <ul>
 
 # About me✌🏻
-<li>🎓Final Year BTech Student(CSE) at Saintgits College of Engineering</li>
+<li>🎓Final Year BTech CSE Student at Saintgits College of Engineering</li>
 
 # Current Endevours🔭
 Here's what I'm currently focused on:
