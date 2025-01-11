@@ -22,7 +22,12 @@ Here's what I'm currently focused on:
 
 <li>  
  
- **[Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-)**
+<h3> 
+ 
+ [Python Learning Repository🔵🟡](https://github.com/meghaarajeev/Python-learning-repository-) 
+
+ 
+</h3>
  
 </li>
 
