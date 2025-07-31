@@ -33,6 +33,17 @@ Here's what I'm currently focused on:
 
 
 # Projects👷🏼‍♀️
+
+<li>
+
+## **[Evidentia👨🏼‍⚖️](https://github.com/meghaarajeev/Evidentia-AI-powered-crime-scene-visualization-tool-StabbleDiffusion-NeRF)**
+
+</li>
+
+Evidentia is an AI-driven platform for automated crime scene reconstruction. It generates 2D images from textual descriptions using Stable Diffusion and converts images into text with ViT and GPT-2. Additionally, it processes FIR reports using T5 and BART to create structured crime narratives.
+
+
+
 <li>
 
 ## **[ClauseX📜](https://github.com/meghaarajeev/Intel-Unnati-2024-Industrial-Training-Project)**
